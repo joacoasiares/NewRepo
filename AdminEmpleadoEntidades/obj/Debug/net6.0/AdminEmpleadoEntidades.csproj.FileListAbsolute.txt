@@ -1,0 +1,11 @@
+C:\Users\user\visual\practica2Parcial\AdminEmpleadoEntidades\bin\Debug\net6.0\AdminEmpleadoEntidades.deps.json
+C:\Users\user\visual\practica2Parcial\AdminEmpleadoEntidades\bin\Debug\net6.0\AdminEmpleadoEntidades.dll
+C:\Users\user\visual\practica2Parcial\AdminEmpleadoEntidades\bin\Debug\net6.0\AdminEmpleadoEntidades.pdb
+C:\Users\user\visual\practica2Parcial\AdminEmpleadoEntidades\obj\Debug\net6.0\AdminEmpleadoEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\visual\practica2Parcial\AdminEmpleadoEntidades\obj\Debug\net6.0\AdminEmpleadoEntidades.AssemblyInfoInputs.cache
+C:\Users\user\visual\practica2Parcial\AdminEmpleadoEntidades\obj\Debug\net6.0\AdminEmpleadoEntidades.AssemblyInfo.cs
+C:\Users\user\visual\practica2Parcial\AdminEmpleadoEntidades\obj\Debug\net6.0\AdminEmpleadoEntidades.csproj.CoreCompileInputs.cache
+C:\Users\user\visual\practica2Parcial\AdminEmpleadoEntidades\obj\Debug\net6.0\AdminEmpleadoEntidades.dll
+C:\Users\user\visual\practica2Parcial\AdminEmpleadoEntidades\obj\Debug\net6.0\refint\AdminEmpleadoEntidades.dll
+C:\Users\user\visual\practica2Parcial\AdminEmpleadoEntidades\obj\Debug\net6.0\AdminEmpleadoEntidades.pdb
+C:\Users\user\visual\practica2Parcial\AdminEmpleadoEntidades\obj\Debug\net6.0\ref\AdminEmpleadoEntidades.dll

@@ -1,0 +1,15 @@
+C:\Users\user\visual\practica2Parcial\AdminEmpleadoDatos\bin\Debug\net6.0\AdminEmpleadoDatos.deps.json
+C:\Users\user\visual\practica2Parcial\AdminEmpleadoDatos\bin\Debug\net6.0\AdminEmpleadoDatos.dll
+C:\Users\user\visual\practica2Parcial\AdminEmpleadoDatos\bin\Debug\net6.0\AdminEmpleadoDatos.pdb
+C:\Users\user\visual\practica2Parcial\AdminEmpleadoDatos\bin\Debug\net6.0\AdminEmpleadoEntidades.dll
+C:\Users\user\visual\practica2Parcial\AdminEmpleadoDatos\bin\Debug\net6.0\AdminEmpleadoEntidades.pdb
+C:\Users\user\visual\practica2Parcial\AdminEmpleadoDatos\obj\Debug\net6.0\AdminEmpleadoDatos.csproj.AssemblyReference.cache
+C:\Users\user\visual\practica2Parcial\AdminEmpleadoDatos\obj\Debug\net6.0\AdminEmpleadoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\visual\practica2Parcial\AdminEmpleadoDatos\obj\Debug\net6.0\AdminEmpleadoDatos.AssemblyInfoInputs.cache
+C:\Users\user\visual\practica2Parcial\AdminEmpleadoDatos\obj\Debug\net6.0\AdminEmpleadoDatos.AssemblyInfo.cs
+C:\Users\user\visual\practica2Parcial\AdminEmpleadoDatos\obj\Debug\net6.0\AdminEmpleadoDatos.csproj.CoreCompileInputs.cache
+C:\Users\user\visual\practica2Parcial\AdminEmpleadoDatos\obj\Debug\net6.0\AdminEmpleadoDatos.csproj.CopyComplete
+C:\Users\user\visual\practica2Parcial\AdminEmpleadoDatos\obj\Debug\net6.0\AdminEmpleadoDatos.dll
+C:\Users\user\visual\practica2Parcial\AdminEmpleadoDatos\obj\Debug\net6.0\refint\AdminEmpleadoDatos.dll
+C:\Users\user\visual\practica2Parcial\AdminEmpleadoDatos\obj\Debug\net6.0\AdminEmpleadoDatos.pdb
+C:\Users\user\visual\practica2Parcial\AdminEmpleadoDatos\obj\Debug\net6.0\ref\AdminEmpleadoDatos.dll
